@@ -32,4 +32,4 @@ This material is also available on a dedicated [website](https://stanford.edu/~s
 Would you like to see these cheatsheets in your native language? You can help us translating them on [this dedicated repo](https://github.com/shervinea/cheatsheet-translation)!
 
 ## Authors
-[Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) and [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale Paris, Stanford University)
+[Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) and [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale, Paris, Stanford University)
